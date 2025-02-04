@@ -1,2 +1,4 @@
 # -The-Hartree-Fock-self-consistent-field-SCF-procedure.
-C:\Users\ayush\OneDrive\Desktop
+This project entails a comprehensive implementation of the Hartree-Fock self-consistent field (SCF) method, focusing on a water molecule utilizing the STO-3G basis set. The process begins with the calculation of the nuclear repulsion energy and the utilization of pre-computed one-and two- electron integrals, including overlap, kinetic energy, nuclear attraction, and electron-electron repulsion integrals.
+Subsequently, the Fock matrix is constructed and iteratively diagonalized to achieve self-consistency in the molecular orbitals. Convergence is monitored through the evolution of the electronic energy and the density matrix until the desired precision is attained. The successful execution of the project demonstrates a thorough understanding of each step involved in the Hartree-Fock SCF procedure, culminating in the accurate determination of the electronic structure of the water molecule.
+
